@@ -1,0 +1,21 @@
+{
+  "name": "bookmarks",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/baizixv/bookmarks.git",
+  "author": "bai.zixv <bai.zixv@foxmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "vuepress dev docs",
+    "build": "vuepress build docs",
+    "lint": "prettier --write 'docs/**/*.md'",
+    "release": "node scripts/generateReadme.js && bash scripts/release.sh",
+    "deploy": "yarn build && bash scripts/deploy-gh.sh && yarn release"
+  },
+  "devDependencies": {
+    "gray-matter": "^4.0.2",
+    "markdown-toc": "^1.2.0",
+    "prettier": "^2.0.5",
+    "vuepress": "^1.5.2"
+  }
+}

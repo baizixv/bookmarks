@@ -1,0 +1,22 @@
+name: Sync to Gitee
+on: [push]
+  
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Sync to Gitee
+        uses: wearerequired/git-mirror-action@master
+        env:
+          SSH_PRIVATE_KEY: ${{ secrets.GITEE_PRIVATE_KEY }}
+        with:
+          source-repo: 'git@github.com:baizixv/bookmarks.git'
+          destination-repo: 'git@gitee.com:baizixv/bookmarks.git'
+
+      - name: Auto Build Gitee Pages
+        uses: yanglbme/gitee-pages-action@master
+        with: 
+          gitee-username: baizixv
+          gitee-password: ${{ secrets.GITEE_PASSWORD }}
+          gitee-repo: baizixv/bookmarks
+          branch: gh-pages
