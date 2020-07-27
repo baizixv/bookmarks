@@ -188,9 +188,9 @@ gitee 访问地址(github.io 有时候在国内访问会很慢)：[bookmarks](ht
 - [**Babel**](https://www.babeljs.cn/docs/) Babel 是一个工具链，主要用于将 ECMAScript 2015+ 版本的代码转换为向后兼容的 JavaScript 语法，以便能够运行在当前和旧版本的浏览器或其他环境中。
 
 #### 5.持续集成工具
-- [**Travis CI**](https://www.travis-ci.org/)在线托管的持续集成服务,绑定Github项目,抓取新的代码自动进行测试构建,甚至自动部署到测试环境。
-- [**Jenkins**](https://www.jenkins.io/)一个开源软件项目，是基于Java开发的一种持续集成工具，用于监控持续重复的工作，旨在提供一个开放易用的软件平台，使软件的持续集成变成可能
 
+- [**Travis CI**](https://www.travis-ci.org/)在线托管的持续集成服务,绑定 Github 项目,抓取新的代码自动进行测试构建,甚至自动部署到测试环境。
+- [**Jenkins**](https://www.jenkins.io/)一个开源软件项目，是基于 Java 开发的一种持续集成工具，用于监控持续重复的工作，旨在提供一个开放易用的软件平台，使软件的持续集成变成可能
 
 ### 语言与框架
 
