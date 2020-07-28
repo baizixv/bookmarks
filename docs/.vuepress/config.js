@@ -19,10 +19,10 @@ module.exports = {
         var _hmt = _hmt || [];
         (function() {
           var hm = document.createElement("script");
-          hm.src = "https://hm.baidu.com/hm.js?4dc669eda5e95545817a939c1df5a3f3";
+          hm.src = "https://hm.baidu.com/hm.js?db0a1f20733bf2fa0d7a423bea2e4a70";
           var s = document.getElementsByTagName("script")[0]; 
           s.parentNode.insertBefore(hm, s);
-        })();  
+        })();
       `
     ]
   ],
