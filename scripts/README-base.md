@@ -5,7 +5,7 @@
 # Baizixv Bookmarks
 在线地址：https://baizixv.github.io/bookmarks
 
-gitee 访问地址(github.io 有时候在国内访问会很慢)：[bookmarks](https://baizixv.gitee.io/bookmarks/)
+gitee 访问地址(github.io 有时候在国内访问会很慢)：https://baizixv.gitee.io/bookmarks
 
 **本项目为个人技术收藏集，里面会不定期分享一些作者平时用到的一些库，或者常用的网站和小工具.**
 
