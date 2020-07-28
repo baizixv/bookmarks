@@ -15,14 +15,14 @@ module.exports = {
     [
       'script',
       {},
-      `
+      `  
         var _hmt = _hmt || [];
         (function() {
           var hm = document.createElement("script");
-          hm.src = "https://hm.baidu.com/hm.js?27487eee16f52d12664f13d868c1d22f";
+          hm.src = "https://hm.baidu.com/hm.js?4dc669eda5e95545817a939c1df5a3f3";
           var s = document.getElementsByTagName("script")[0]; 
           s.parentNode.insertBefore(hm, s);
-        })();
+        })();  
       `
     ]
   ],
