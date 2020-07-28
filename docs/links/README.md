@@ -12,3 +12,4 @@ sidebar: auto
 - [**阮一峰的网络日志**](http://www.ruanyifeng.com/blog/) 阮老师出的东西还是值得一读的
 - [**Vue 作者尤雨溪**](https://evanyou.me/)
 - [**张鑫旭的个人主页**](https://www.zhangxinxu.com/)
+- [**guojun49.gitee.io/**](https://guojun49.gitee.io/)
