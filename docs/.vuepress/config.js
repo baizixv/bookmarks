@@ -19,7 +19,7 @@ module.exports = {
         var _hmt = _hmt || [];
         (function() {
           var hm = document.createElement("script");
-          hm.src = "https://hm.baidu.com/hm.js?db0a1f20733bf2fa0d7a423bea2e4a70";
+          hm.src = "https://hm.baidu.com/hm.js?27487eee16f52d12664f13d868c1d22f";
           var s = document.getElementsByTagName("script")[0]; 
           s.parentNode.insertBefore(hm, s);
         })();
