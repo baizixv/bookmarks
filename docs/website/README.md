@@ -223,10 +223,10 @@ sidebar: auto
 
 ## 面试相关
 
+### 0.面试题
+- [**拉勾每日面试题**](https://baizixv.gitee.io/bookmarks/interviews) 拉勾每日面试题复习回顾
 ### 1.熟人内推
-
 ### 2.公司招聘官网
-
 ### 3.面试平台
 
 - [**拉勾**](https://www.lagou.com/)

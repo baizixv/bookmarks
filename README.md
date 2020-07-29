@@ -48,6 +48,7 @@ gitee 访问地址(github.io 有时候在国内访问会很慢)：https://baizix
   * [实用](#%E5%AE%9E%E7%94%A8)
   * [Talk](#talk)
   * [面试相关](#%E9%9D%A2%E8%AF%95%E7%9B%B8%E5%85%B3)
+    + [0.面试题](#0%E9%9D%A2%E8%AF%95%E9%A2%98)
     + [1.熟人内推](#1%E7%86%9F%E4%BA%BA%E5%86%85%E6%8E%A8)
     + [2.公司招聘官网](#2%E5%85%AC%E5%8F%B8%E6%8B%9B%E8%81%98%E5%AE%98%E7%BD%91)
     + [3.面试平台](#3%E9%9D%A2%E8%AF%95%E5%B9%B3%E5%8F%B0)
@@ -498,10 +499,10 @@ gitee 访问地址(github.io 有时候在国内访问会很慢)：https://baizix
 
 ## 面试相关
 
+### 0.面试题
+- [**拉勾每日面试题**](https://baizixv.gitee.io/bookmarks/interviews) 拉勾每日面试题复习回顾
 ### 1.熟人内推
-
 ### 2.公司招聘官网
-
 ### 3.面试平台
 
 - [**拉勾**](https://www.lagou.com/)
