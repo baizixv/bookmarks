@@ -18,7 +18,7 @@ sidebar: auto
 
 [**awwwards**](https://www.awwwards.com/)是一个一个专门为设计精美的网站以及富有创意的网站颁奖的网站
 
-[**dribbble**](https://dribbble.com/) 经常能在上面找到很多有创意好看的 gif 或者图片，基本上我所有的图都是上面招的
+[**dribbble**](https://dribbble.com/) 经常能在上面找到很多有创意好看的 gif 或者图片，基本上我所有的图都是上面找的
 
 [Pexels](https://www.pexels.com/zh-cn/)免费素材图片
 
