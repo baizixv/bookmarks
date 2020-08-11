@@ -16,6 +16,9 @@ sidebar: auto
 
 ## 技术工具
 
+- [**photopea**](https://www.photopea.com/) 在线PS网站
+- [**PS**](https://ps.gaoding.com/) 在线PS网站，国内适配版
+- [**badge**](https://badgen.net/) Fast badge generating service
 - [**jsPerf**](https://jsperf.com/) 在线 js 性能测试工具
 - [**StorePreviewer**](https://www.storepreviewer.com) See What Your App Will Look Like On The App Store
 - [**squoosh**](https://squoosh.app/) Squoosh 是一个理想的图片压缩，可以离线使用的 Web App
@@ -97,6 +100,7 @@ sidebar: auto
 - [**QQ 浏览器**](https://browser.qq.com/?adtag=SEM170314031)
 
 ## VS Code
+- [marketplace.visualstudio.com](https://marketplace.visualstudio.com/)Extensions for the Visual Studio family of products
 
 ### 通用
 

@@ -8,6 +8,13 @@ sidebar: auto
 
 ## 常用库
 
+### 包管理工具
+
+- [**npm**](https://www.npmjs.com/) npm 是 JavaScript 世界的包管理工具,并且是 Node.js 平台的默认包管理工具
+- [**yarn**](https://yarnpkg.com/) yarn，Facebook 贡献的 Javascript 包管理器
+- [**cnpm**](https://developer.aliyun.com/mirror/NPM?from=tnpm) 一个完整 npmjs.org 镜像，同步频率目前为 10 分钟 一次
+- [**pnpm**](https://pnpm.js.org/) 继承了yarn的所有优点，包括离线模式和确定性安装。
+
 ### 收集库
 
 - [**hocs**](https://github.com/deepsweet/hocs) react 相关 hoc 收集库

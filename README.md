@@ -23,7 +23,7 @@ gitee 访问地址(github.io 有时候在国内访问会很慢)：https://baizix
       - [3.打包工具](#3%E6%89%93%E5%8C%85%E5%B7%A5%E5%85%B7)
       - [4.格式化工具 & 其他](#4%E6%A0%BC%E5%BC%8F%E5%8C%96%E5%B7%A5%E5%85%B7--%E5%85%B6%E4%BB%96)
       - [5.持续集成工具](#5%E6%8C%81%E7%BB%AD%E9%9B%86%E6%88%90%E5%B7%A5%E5%85%B7)
-    + [语言与框架](#%E8%AF%AD%E8%A8%80%E4%B8%8E%E6%A1%86%E6%9E%B6)
+    + [语言，模板与框架](#%E8%AF%AD%E8%A8%80%E6%A8%A1%E6%9D%BF%E4%B8%8E%E6%A1%86%E6%9E%B6)
     + [兼容性](#%E5%85%BC%E5%AE%B9%E6%80%A7)
     + [其他](#%E5%85%B6%E4%BB%96)
     + [javascript 库与函数式编程库](#javascript-%E5%BA%93%E4%B8%8E%E5%87%BD%E6%95%B0%E5%BC%8F%E7%BC%96%E7%A8%8B%E5%BA%93)
@@ -31,8 +31,10 @@ gitee 访问地址(github.io 有时候在国内访问会很慢)：https://baizix
     + [静态站点生成器 && 文档管理](#%E9%9D%99%E6%80%81%E7%AB%99%E7%82%B9%E7%94%9F%E6%88%90%E5%99%A8--%E6%96%87%E6%A1%A3%E7%AE%A1%E7%90%86)
   * [3.MongoDB 相关](#3mongodb-%E7%9B%B8%E5%85%B3)
   * [4.GraphQL](#4graphql)
+  * [其他](#%E5%85%B6%E4%BB%96-1)
 - [实用网站](#%E5%AE%9E%E7%94%A8%E7%BD%91%E7%AB%99)
   * [搜索引擎](#%E6%90%9C%E7%B4%A2%E5%BC%95%E6%93%8E)
+  * [云平台](#%E4%BA%91%E5%B9%B3%E5%8F%B0)
   * [代码托管](#%E4%BB%A3%E7%A0%81%E6%89%98%E7%AE%A1)
   * [文档编辑](#%E6%96%87%E6%A1%A3%E7%BC%96%E8%BE%91)
   * [协同平台](#%E5%8D%8F%E5%90%8C%E5%B9%B3%E5%8F%B0)
@@ -54,9 +56,10 @@ gitee 访问地址(github.io 有时候在国内访问会很慢)：https://baizix
     + [2.公司招聘官网](#2%E5%85%AC%E5%8F%B8%E6%8B%9B%E8%81%98%E5%AE%98%E7%BD%91)
     + [3.面试平台](#3%E9%9D%A2%E8%AF%95%E5%B9%B3%E5%8F%B0)
   * [第三方平台](#%E7%AC%AC%E4%B8%89%E6%96%B9%E5%B9%B3%E5%8F%B0)
-  * [一些不明所以的网站](#%E4%B8%80%E4%BA%9B%E4%B8%8D%E6%98%8E%E6%89%80%E4%BB%A5%E7%9A%84%E7%BD%91%E7%AB%99)
+  * [其他](#%E5%85%B6%E4%BB%96-2)
 - [常用库与工具](#%E5%B8%B8%E7%94%A8%E5%BA%93%E4%B8%8E%E5%B7%A5%E5%85%B7)
   * [常用库](#%E5%B8%B8%E7%94%A8%E5%BA%93)
+    + [包管理工具](#%E5%8C%85%E7%AE%A1%E7%90%86%E5%B7%A5%E5%85%B7-1)
     + [收集库](#%E6%94%B6%E9%9B%86%E5%BA%93)
     + [通用库](#%E9%80%9A%E7%94%A8%E5%BA%93)
     + [Css && 动画](#css--%E5%8A%A8%E7%94%BB)
@@ -100,7 +103,7 @@ gitee 访问地址(github.io 有时候在国内访问会很慢)：https://baizix
     + [移动端](#%E7%A7%BB%E5%8A%A8%E7%AB%AF-1)
     + [信息安全](#%E4%BF%A1%E6%81%AF%E5%AE%89%E5%85%A8)
     + [Python](#python)
-    + [其他](#%E5%85%B6%E4%BB%96-1)
+    + [其他](#%E5%85%B6%E4%BB%96-3)
   * [2.实践教程](#2%E5%AE%9E%E8%B7%B5%E6%95%99%E7%A8%8B)
   * [3.视频教程 && 交互式学习](#3%E8%A7%86%E9%A2%91%E6%95%99%E7%A8%8B--%E4%BA%A4%E4%BA%92%E5%BC%8F%E5%AD%A6%E4%B9%A0)
   * [4.网络课程平台](#4%E7%BD%91%E7%BB%9C%E8%AF%BE%E7%A8%8B%E5%B9%B3%E5%8F%B0)
@@ -124,7 +127,7 @@ gitee 访问地址(github.io 有时候在国内访问会很慢)：https://baizix
   * [技术相关](#%E6%8A%80%E6%9C%AF%E7%9B%B8%E5%85%B3)
   * [前端开发](#%E5%89%8D%E7%AB%AF%E5%BC%80%E5%8F%91)
   * [技术书籍](#%E6%8A%80%E6%9C%AF%E4%B9%A6%E7%B1%8D)
-  * [其他](#%E5%85%B6%E4%BB%96-2)
+  * [其他](#%E5%85%B6%E4%BB%96-4)
 - [友情链接](#%E5%8F%8B%E6%83%85%E9%93%BE%E6%8E%A5)
   * [其他人的收藏](#%E5%85%B6%E4%BB%96%E4%BA%BA%E7%9A%84%E6%94%B6%E8%97%8F)
 
@@ -165,6 +168,9 @@ gitee 访问地址(github.io 有时候在国内访问会很慢)：https://baizix
 
 #### 1.脚手架
 
+- [**Create React App**](https://cli.vuejs.org/zh/) 官方支持的创建 React 单页应用程序的方法。它提供了一个零配置的现代构建设置。
+- [**Vue CLI**](https://cli.vuejs.org/zh/) Vue.js 开发的标准工具
+- [**Angular CLI **](https://cli.angular.io/)
 - [**Yeoman**](https://yeoman.io/learning/)Yeoman 是现代化前端项目的脚手架工具,用于生成包含指定框架结构的工程化目录结构。它是整个前端自动化工厂的第一站。
 - [**Plop**](https://plopjs.com/documentation/)小型前端脚手架工具
 
@@ -182,6 +188,7 @@ gitee 访问地址(github.io 有时候在国内访问会很慢)：https://baizix
 - [**webpack 中文文档**](https://webpack.docschina.org/concepts/) webpack 中文文档
 - [**webpack 中文文档 2**](https://www.webpackjs.com/concepts/) webpack 中文文档 2
 - [**Rollup.js**](https://github.com/rollup/rollup) Rollup 是一个 JavaScript 模块打包器,可以将小块代码编译成大块复杂的代码,Rollup 对代码模块使用新的标准化格式,这些标准都包含在 JavaScript 的 ES6 版本中。
+- [**Parcel**](https://parceljs.org/) 极速零配置Web应用打包工具
 
 #### 4.格式化工具 & 其他
 
@@ -194,7 +201,7 @@ gitee 访问地址(github.io 有时候在国内访问会很慢)：https://baizix
 - [**Travis CI**](https://www.travis-ci.org/)在线托管的持续集成服务,绑定 Github 项目,抓取新的代码自动进行测试构建,甚至自动部署到测试环境。
 - [**Jenkins**](https://www.jenkins.io/)一个开源软件项目，是基于 Java 开发的一种持续集成工具，用于监控持续重复的工作，旨在提供一个开放易用的软件平台，使软件的持续集成变成可能
 
-### 语言与框架
+### 语言，模板与框架
 
 - [**ECMAScript Language Specification**](http://www.ecma-international.org/ecma-262/5.1/#sec-11.13)ECMAScript 语言规范
 - [**ECMAScript**](https://tc39.es/ecma262/#sec-promise-objects)ECMAScript 语言规范
@@ -227,6 +234,9 @@ gitee 访问地址(github.io 有时候在国内访问会很慢)：https://baizix
 - [**tabler**](https://github.com/tabler/tabler) Tabler 是一个基于 Bootstrap 4 开发的 HTML 仪表盘 UI 套件，旨在提供一个用户友好，清晰简单的管理面板，可适用于简单和复杂的网站系统。
 - [**lulu**](https://github.com/yued-fe/lulu) 腾讯阅文基于 jQuery，针对 PC 网站 IE8+（peak 主题）的前端 UI 框架
 - [**Jasonette**](https://github.com/Jasonette/JASONETTE-iOS) 一个用 json 来构建 hybrid App 的框架
+- [**art-template**](https://aui.github.io/art-template/zh-cn/docs/) art-template 是一个简约、超快的模板引擎。
+- [**Smarty**](https://m.php.cn/manual/view/15656.html) Smarty是一个php模板引擎。
+- [**EJS**](https://ejs.bootcss.com/) 高效的嵌入式 JavaScript 模板引擎。
 
 ### 兼容性
 
@@ -254,9 +264,12 @@ gitee 访问地址(github.io 有时候在国内访问会很慢)：https://baizix
 
 ### 可视化相关
 
+- [**D3**](https://github.com/d3/d3) D3 是最流行的可视化库之一，它被很多其他的表格插件所使用。它允许绑定任意数据到DOM，然后将数据驱动转换应用到Document中。
 - [**ECharts**](https://echarts.apache.org/zh/tutorial.html) ECharts 是一个使用 JavaScript 实现的开源可视化库,涵盖各行业图表,满足各种需求。
 - [**Three.js 中文网**](http://www.webgl3d.cn/)Three.js 是基于原生 WebGL 封装运行的三维引擎，在所有 WebGL 引擎中，Three.js 是国内文资料最多、使用最广泛的三维引擎
 - [**chart.xkcd**](https://github.com/timqian/chart.xkcd) 手绘风格的图表库
+- [**F2**](https://antv-f2.gitee.io/zh/docs/api/chart/chart) 移动端可视化，蚂蚁出品
+- [**highcharts**](https://api.highcharts.com.cn/) 兼容 IE6+、完美支持移动端、图表类型丰富、方便快捷的 HTML5 交互性图表库
 
 ### 静态站点生成器 && 文档管理
 
@@ -264,6 +277,7 @@ gitee 访问地址(github.io 有时候在国内访问会很慢)：https://baizix
 - [**docsify**](https://github.com/docsifyjs/docsify) 轻量级文档工具，但其是运行时编译的
 - [**GitBook**](https://www.gitbook.com/) 除了编译慢没啥毛病
 - [**docz**](https://github.com/pedronauck/docz)
+- [**GitHub Pages**](https://docs.github.com/cn/github/working-with-github-pages)
 
 ## 3.MongoDB 相关
 
@@ -278,6 +292,11 @@ gitee 访问地址(github.io 有时候在国内访问会很慢)：https://baizix
 - [**Apollo GraphQL**](https://www.apollographql.com/) 是基于 GraphQL 的全栈解决方案集合。从后端到前端提供了对应的 lib 使得开发使用 GraphQL 更加的方便
 - [**dataloader**](https://github.com/facebook/dataloader) 解决 Graphql 中的 N+1 查询问题
 
+## 其他
+
+- [**WebAssembly**](https://www.wasm.com.cn/) wasm 是一个可移植、体积小、加载快并且兼容 Web 的全新格式
+- [**todomvc**](http://todomvc.com/) Helping you select an MV* framework
+
 
 # 实用网站
 
@@ -286,6 +305,12 @@ gitee 访问地址(github.io 有时候在国内访问会很慢)：https://baizix
 - [**百度**](https://www.baidu.com/)
 - [**Google**](https://www.google.com/)
 - [**快搜**](https://search.chongbuluo.com/) 集成各种搜索工具于一体，非常好用
+
+## 云平台
+
+- [**七牛云**](https://www.qiniu.com/)
+- [**阿里云**](https://www.aliyun.com/)
+- [**腾讯云**](https://cloud.tencent.com/)
 
 ## 代码托管
 
@@ -338,6 +363,8 @@ gitee 访问地址(github.io 有时候在国内访问会很慢)：https://baizix
 
 ## Github
 
+- [**github 国内镜像网站**](https://git.sdut.me/) git.sdut.me
+- [**github 国内镜像网站**](https://github.com.cnpmjs.org/) github.com.cnpmjs.org
 - [**github 短域名服务**](https://git.io)
 - [**shields**](https://shields.io/) Github README 里面的装逼小图标
 - [**Emoji**](https://www.webpagefx.com/tools/emoji-cheat-sheet/) 方便平时写查找 emoji
@@ -502,6 +529,7 @@ gitee 访问地址(github.io 有时候在国内访问会很慢)：https://baizix
 
 ### 0.面试题
 - [**拉勾每日面试题**](https://baizixv.gitee.io/bookmarks/interviews) 拉勾每日面试题复习回顾
+
 ### 1.熟人内推
 ### 2.公司招聘官网
 ### 3.面试平台
@@ -517,11 +545,13 @@ gitee 访问地址(github.io 有时候在国内访问会很慢)：https://baizix
 - [**云雀客服**](https://www.yunque360.com/)全渠道客服系统 - 微信客服/微博客服/客资管理/在线咨询/在线客服软件
 - [**容联云通讯**](https://www.yuntongxun.com/)短信平台、手机验证码、语音验证码、IM 即时通讯、云呼叫系统等互联网通信服务
 - [**友盟**](https://www.umeng.com/) 第三方网站数据统计与监测
+- [**百度统计**](https://tongji.baidu.com/web/welcome/login) 第三方网站数据统计与监测
+- [**Google Analytics**](https://analytics.google.com/) 第三方网站数据统计与监测
 - [**快海报**](https://kuaihaibao.com/doc/index.html) 快海报提供小程序分享海报生成服务，接口为 HTTP API
 
-## 一些不明所以的网站
+## 其他
 
-- [**Formic**](https://www.formic.com/) formic
+- [**Godaddy**](https://sg.godaddy.com/zh) 购买域名
 
 
 # 常用库与工具
@@ -529,6 +559,13 @@ gitee 访问地址(github.io 有时候在国内访问会很慢)：https://baizix
 **这里主要推荐一下自己平时常用，提高效率的一些库和工具。**
 
 ## 常用库
+
+### 包管理工具
+
+- [**npm**](https://www.npmjs.com/) npm 是 JavaScript 世界的包管理工具,并且是 Node.js 平台的默认包管理工具
+- [**yarn**](https://yarnpkg.com/) yarn，Facebook 贡献的 Javascript 包管理器
+- [**cnpm**](https://developer.aliyun.com/mirror/NPM?from=tnpm) 一个完整 npmjs.org 镜像，同步频率目前为 10 分钟 一次
+- [**pnpm**](https://pnpm.js.org/) 继承了yarn的所有优点，包括离线模式和确定性安装。
 
 ### 收集库
 
@@ -800,6 +837,9 @@ gitee 访问地址(github.io 有时候在国内访问会很慢)：https://baizix
 
 ## 技术工具
 
+- [**photopea**](https://www.photopea.com/) 在线PS网站
+- [**PS**](https://ps.gaoding.com/) 在线PS网站，国内适配版
+- [**badge**](https://badgen.net/) Fast badge generating service
 - [**jsPerf**](https://jsperf.com/) 在线 js 性能测试工具
 - [**StorePreviewer**](https://www.storepreviewer.com) See What Your App Will Look Like On The App Store
 - [**squoosh**](https://squoosh.app/) Squoosh 是一个理想的图片压缩，可以离线使用的 Web App
@@ -881,6 +921,7 @@ gitee 访问地址(github.io 有时候在国内访问会很慢)：https://baizix
 - [**QQ 浏览器**](https://browser.qq.com/?adtag=SEM170314031)
 
 ## VS Code
+- [marketplace.visualstudio.com](https://marketplace.visualstudio.com/)Extensions for the Visual Studio family of products
 
 ### 通用
 

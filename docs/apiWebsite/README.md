@@ -39,6 +39,9 @@ sidebar: auto
 
 #### 1.脚手架
 
+- [**Create React App**](https://cli.vuejs.org/zh/) 官方支持的创建 React 单页应用程序的方法。它提供了一个零配置的现代构建设置。
+- [**Vue CLI**](https://cli.vuejs.org/zh/) Vue.js 开发的标准工具
+- [**Angular CLI **](https://cli.angular.io/)
 - [**Yeoman**](https://yeoman.io/learning/)Yeoman 是现代化前端项目的脚手架工具,用于生成包含指定框架结构的工程化目录结构。它是整个前端自动化工厂的第一站。
 - [**Plop**](https://plopjs.com/documentation/)小型前端脚手架工具
 
@@ -56,6 +59,7 @@ sidebar: auto
 - [**webpack 中文文档**](https://webpack.docschina.org/concepts/) webpack 中文文档
 - [**webpack 中文文档 2**](https://www.webpackjs.com/concepts/) webpack 中文文档 2
 - [**Rollup.js**](https://github.com/rollup/rollup) Rollup 是一个 JavaScript 模块打包器,可以将小块代码编译成大块复杂的代码,Rollup 对代码模块使用新的标准化格式,这些标准都包含在 JavaScript 的 ES6 版本中。
+- [**Parcel**](https://parceljs.org/) 极速零配置Web应用打包工具
 
 #### 4.格式化工具 & 其他
 
@@ -68,7 +72,7 @@ sidebar: auto
 - [**Travis CI**](https://www.travis-ci.org/)在线托管的持续集成服务,绑定 Github 项目,抓取新的代码自动进行测试构建,甚至自动部署到测试环境。
 - [**Jenkins**](https://www.jenkins.io/)一个开源软件项目，是基于 Java 开发的一种持续集成工具，用于监控持续重复的工作，旨在提供一个开放易用的软件平台，使软件的持续集成变成可能
 
-### 语言与框架
+### 语言，模板与框架
 
 - [**ECMAScript Language Specification**](http://www.ecma-international.org/ecma-262/5.1/#sec-11.13)ECMAScript 语言规范
 - [**ECMAScript**](https://tc39.es/ecma262/#sec-promise-objects)ECMAScript 语言规范
@@ -101,6 +105,9 @@ sidebar: auto
 - [**tabler**](https://github.com/tabler/tabler) Tabler 是一个基于 Bootstrap 4 开发的 HTML 仪表盘 UI 套件，旨在提供一个用户友好，清晰简单的管理面板，可适用于简单和复杂的网站系统。
 - [**lulu**](https://github.com/yued-fe/lulu) 腾讯阅文基于 jQuery，针对 PC 网站 IE8+（peak 主题）的前端 UI 框架
 - [**Jasonette**](https://github.com/Jasonette/JASONETTE-iOS) 一个用 json 来构建 hybrid App 的框架
+- [**art-template**](https://aui.github.io/art-template/zh-cn/docs/) art-template 是一个简约、超快的模板引擎。
+- [**Smarty**](https://m.php.cn/manual/view/15656.html) Smarty是一个php模板引擎。
+- [**EJS**](https://ejs.bootcss.com/) 高效的嵌入式 JavaScript 模板引擎。
 
 ### 兼容性
 
@@ -128,9 +135,12 @@ sidebar: auto
 
 ### 可视化相关
 
+- [**D3**](https://github.com/d3/d3) D3 是最流行的可视化库之一，它被很多其他的表格插件所使用。它允许绑定任意数据到DOM，然后将数据驱动转换应用到Document中。
 - [**ECharts**](https://echarts.apache.org/zh/tutorial.html) ECharts 是一个使用 JavaScript 实现的开源可视化库,涵盖各行业图表,满足各种需求。
 - [**Three.js 中文网**](http://www.webgl3d.cn/)Three.js 是基于原生 WebGL 封装运行的三维引擎，在所有 WebGL 引擎中，Three.js 是国内文资料最多、使用最广泛的三维引擎
 - [**chart.xkcd**](https://github.com/timqian/chart.xkcd) 手绘风格的图表库
+- [**F2**](https://antv-f2.gitee.io/zh/docs/api/chart/chart) 移动端可视化，蚂蚁出品
+- [**highcharts**](https://api.highcharts.com.cn/) 兼容 IE6+、完美支持移动端、图表类型丰富、方便快捷的 HTML5 交互性图表库
 
 ### 静态站点生成器 && 文档管理
 
@@ -138,6 +148,7 @@ sidebar: auto
 - [**docsify**](https://github.com/docsifyjs/docsify) 轻量级文档工具，但其是运行时编译的
 - [**GitBook**](https://www.gitbook.com/) 除了编译慢没啥毛病
 - [**docz**](https://github.com/pedronauck/docz)
+- [**GitHub Pages**](https://docs.github.com/cn/github/working-with-github-pages)
 
 ## 3.MongoDB 相关
 
@@ -151,3 +162,8 @@ sidebar: auto
 - [**prisma**](https://www.prisma.io/docs/) Prisma 则提供一套简洁的 API，使你更加方便地操作数据库和理解查询语句。Prisma 的 API 是类型安全的，返回的数据是普通的 JS 对象（plain old JavaScript objects）。让前端也能快速的写出 API
 - [**Apollo GraphQL**](https://www.apollographql.com/) 是基于 GraphQL 的全栈解决方案集合。从后端到前端提供了对应的 lib 使得开发使用 GraphQL 更加的方便
 - [**dataloader**](https://github.com/facebook/dataloader) 解决 Graphql 中的 N+1 查询问题
+
+## 其他
+
+- [**WebAssembly**](https://www.wasm.com.cn/) wasm 是一个可移植、体积小、加载快并且兼容 Web 的全新格式
+- [**todomvc**](http://todomvc.com/) Helping you select an MV* framework

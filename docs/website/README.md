@@ -10,6 +10,12 @@ sidebar: auto
 - [**Google**](https://www.google.com/)
 - [**快搜**](https://search.chongbuluo.com/) 集成各种搜索工具于一体，非常好用
 
+## 云平台
+
+- [**七牛云**](https://www.qiniu.com/)
+- [**阿里云**](https://www.aliyun.com/)
+- [**腾讯云**](https://cloud.tencent.com/)
+
 ## 代码托管
 
 - [**GitHub**](https://github.com/)
@@ -61,6 +67,8 @@ sidebar: auto
 
 ## Github
 
+- [**github 国内镜像网站**](https://git.sdut.me/) git.sdut.me
+- [**github 国内镜像网站**](https://github.com.cnpmjs.org/) github.com.cnpmjs.org
 - [**github 短域名服务**](https://git.io)
 - [**shields**](https://shields.io/) Github README 里面的装逼小图标
 - [**Emoji**](https://www.webpagefx.com/tools/emoji-cheat-sheet/) 方便平时写查找 emoji
@@ -225,6 +233,7 @@ sidebar: auto
 
 ### 0.面试题
 - [**拉勾每日面试题**](https://baizixv.gitee.io/bookmarks/interviews) 拉勾每日面试题复习回顾
+
 ### 1.熟人内推
 ### 2.公司招聘官网
 ### 3.面试平台
@@ -240,8 +249,10 @@ sidebar: auto
 - [**云雀客服**](https://www.yunque360.com/)全渠道客服系统 - 微信客服/微博客服/客资管理/在线咨询/在线客服软件
 - [**容联云通讯**](https://www.yuntongxun.com/)短信平台、手机验证码、语音验证码、IM 即时通讯、云呼叫系统等互联网通信服务
 - [**友盟**](https://www.umeng.com/) 第三方网站数据统计与监测
+- [**百度统计**](https://tongji.baidu.com/web/welcome/login) 第三方网站数据统计与监测
+- [**Google Analytics**](https://analytics.google.com/) 第三方网站数据统计与监测
 - [**快海报**](https://kuaihaibao.com/doc/index.html) 快海报提供小程序分享海报生成服务，接口为 HTTP API
 
-## 一些不明所以的网站
+## 其他
 
-- [**Formic**](https://www.formic.com/) formic
+- [**Godaddy**](https://sg.godaddy.com/zh) 购买域名
