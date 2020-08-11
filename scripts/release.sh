@@ -1,3 +1,3 @@
 git add -A
-git commit -m 'update: 0810直播内容'
+git commit -m 'update'
 git push
