@@ -130,6 +130,7 @@ gitee 访问地址(github.io 有时候在国内访问会很慢)：https://baizix
   * [其他](#%E5%85%B6%E4%BB%96-4)
 - [友情链接](#%E5%8F%8B%E6%83%85%E9%93%BE%E6%8E%A5)
   * [其他人的收藏](#%E5%85%B6%E4%BB%96%E4%BA%BA%E7%9A%84%E6%94%B6%E8%97%8F)
+  * [其他](#%E5%85%B6%E4%BB%96-5)
 
 # API 官网
 
@@ -1317,3 +1318,6 @@ gitee 访问地址(github.io 有时候在国内访问会很慢)：https://baizix
 - [**Vue 作者尤雨溪**](https://evanyou.me/)
 - [**张鑫旭的个人主页**](https://www.zhangxinxu.com/)
 - [**guojun49.gitee.io/**](https://guojun49.gitee.io/)
+
+## 其他
+- [**SF**](https://baizixv.gitee.io/bookmarks/selflife)

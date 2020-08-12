@@ -13,3 +13,6 @@ sidebar: auto
 - [**Vue 作者尤雨溪**](https://evanyou.me/)
 - [**张鑫旭的个人主页**](https://www.zhangxinxu.com/)
 - [**guojun49.gitee.io/**](https://guojun49.gitee.io/)
+
+## 其他
+- [**SF**](https://baizixv.gitee.io/bookmarks/selflife)

@@ -6,4 +6,4 @@
 
 ## 其他
 
-- [本站规划](https://baizixv.gitee.io/bookmarks/todolist)
+- [待办清单](https://baizixv.gitee.io/bookmarks/todolist)
