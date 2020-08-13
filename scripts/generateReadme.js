@@ -6,11 +6,11 @@ const headerMd = 'scripts/README-base.md'
 const files = [
   'docs/apiWebsite/README.md', 
   'docs/website/README.md',
-  'docs/library/README.md',
+  'docs/librarys/README.md',
   'docs/tools/README.md',
   'docs/teachbooks/README.md',
   'docs/article/README.md',
-  'docs/assets/README.md',
+  'docs/resources/README.md',
   'docs/links/README.md',
 ]
 

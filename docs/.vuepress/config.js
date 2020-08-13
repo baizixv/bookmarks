@@ -42,7 +42,7 @@ module.exports = {
       },
       {
         text: '常用库与插件',
-        link: '/library/'
+        link: '/librarys/'
       },
       {
         text: '常用工具',
@@ -58,7 +58,7 @@ module.exports = {
       }, 
       {
         text: '资源网站',
-        link: '/assets/'
+        link: '/resources/'
       },
       {
         text: '友情链接',
