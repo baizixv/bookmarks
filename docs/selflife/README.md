@@ -22,6 +22,7 @@
 
 - [腾讯](https://film.qq.com)
 - [爱奇艺](https://www.iqiyi.com)
+- [优酷](https://www.v.youku.com)
 - [B 站](https://www.bilibili.com)
 - [AcFun 弹幕视频网](https://www.acfun.cn)
 - [Pixiv](http://www.pixiv.net/)
