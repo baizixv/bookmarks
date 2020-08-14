@@ -68,7 +68,7 @@ gitee 访问地址(github.io 有时候在国内访问会很慢)：https://baizix
     + [工具库](#%E5%B7%A5%E5%85%B7%E5%BA%93)
     + [命令行相关](#%E5%91%BD%E4%BB%A4%E8%A1%8C%E7%9B%B8%E5%85%B3)
     + [文件处理相关](#%E6%96%87%E4%BB%B6%E5%A4%84%E7%90%86%E7%9B%B8%E5%85%B3)
-    + [调试相关](#%E8%B0%83%E8%AF%95%E7%9B%B8%E5%85%B3)
+    + [开发调试相关](#%E5%BC%80%E5%8F%91%E8%B0%83%E8%AF%95%E7%9B%B8%E5%85%B3)
     + [Webpack](#webpack)
     + [移动端](#%E7%A7%BB%E5%8A%A8%E7%AB%AF)
     + [性能优化](#%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96)
@@ -755,8 +755,9 @@ gitee 访问地址(github.io 有时候在国内访问会很慢)：https://baizix
 - [**npm-run-all**](https://github.com/mysticatea/npm-run-all) 一个 CLI 工具可以并行或者串行执行 script 指令
 - [**memfs**](https://github.com/streamich/memfs) memory-fs 的替代品，将文件放在内存中优化读写，webpack 依赖
 
-### 调试相关
+### 开发调试相关
 
+- [**browser-sync**](https://github.com/BrowserSync/browser-sync) 浏览器同步调试工具包
 - [**fx**](https://github.com/antonmedv/fx) 命令行优化 JSON 输出
 - [**dumper.js**](https://github.com/zeeshanu/dumper.js) 能让你的 node console 更加的规整，方便调试
 - [**ndb**](https://github.com/GoogleChromeLabs/ndb) node 调试
@@ -923,7 +924,8 @@ gitee 访问地址(github.io 有时候在国内访问会很慢)：https://baizix
 - [**QQ 浏览器**](https://browser.qq.com/?adtag=SEM170314031)
 
 ## VS Code
-- [marketplace.visualstudio.com](https://marketplace.visualstudio.com/)Extensions for the Visual Studio family of products
+- [**marketplace.visualstudio.com**](https://marketplace.visualstudio.com/) VSCode的官方插件市场
+- [**Live Server**]() 一个具有实时加载功能的小型服务器
 
 ### 通用
 

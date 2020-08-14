@@ -100,7 +100,8 @@ sidebar: auto
 - [**QQ 浏览器**](https://browser.qq.com/?adtag=SEM170314031)
 
 ## VS Code
-- [marketplace.visualstudio.com](https://marketplace.visualstudio.com/)Extensions for the Visual Studio family of products
+- [**marketplace.visualstudio.com**](https://marketplace.visualstudio.com/) VSCode的官方插件市场
+- [**Live Server**]() 一个具有实时加载功能的小型服务器
 
 ### 通用
 

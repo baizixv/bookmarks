@@ -201,8 +201,9 @@ sidebar: auto
 - [**npm-run-all**](https://github.com/mysticatea/npm-run-all) 一个 CLI 工具可以并行或者串行执行 script 指令
 - [**memfs**](https://github.com/streamich/memfs) memory-fs 的替代品，将文件放在内存中优化读写，webpack 依赖
 
-### 调试相关
+### 开发调试相关
 
+- [**browser-sync**](https://github.com/BrowserSync/browser-sync) 浏览器同步调试工具包
 - [**fx**](https://github.com/antonmedv/fx) 命令行优化 JSON 输出
 - [**dumper.js**](https://github.com/zeeshanu/dumper.js) 能让你的 node console 更加的规整，方便调试
 - [**ndb**](https://github.com/GoogleChromeLabs/ndb) node 调试
