@@ -1,3 +1,3 @@
 git add -A
-git commit -m 'add: 添加selflife'
+git commit -m 'update: 更新interviews目录标题'
 git push
