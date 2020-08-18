@@ -171,7 +171,7 @@ gitee 访问地址(github.io 有时候在国内访问会很慢)：https://baizix
 
 - [**Create React App**](https://cli.vuejs.org/zh/) 官方支持的创建 React 单页应用程序的方法。它提供了一个零配置的现代构建设置。
 - [**Vue CLI**](https://cli.vuejs.org/zh/) Vue.js 开发的标准工具
-- [**Angular CLI **](https://cli.angular.io/)
+- [**Angular CLI**](https://cli.angular.io/)
 - [**Yeoman**](https://yeoman.io/learning/)Yeoman 是现代化前端项目的脚手架工具,用于生成包含指定框架结构的工程化目录结构。它是整个前端自动化工厂的第一站。
 - [**Plop**](https://plopjs.com/documentation/)小型前端脚手架工具
 
