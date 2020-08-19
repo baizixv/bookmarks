@@ -152,6 +152,7 @@ gitee 访问地址(github.io 有时候在国内访问会很慢)：https://baizix
 
 - [**git 文档**](https://git-scm.com/book/zh/v2/) Git 是一个开源的分布式版本控制系统,用于敏捷高效地处理任何或小或大的项目
 - [**git 参考手册**](http://gitref.justjavac.com/)
+- [**git 大全**](https://gitee.com/all-about-git)
 
 ### 运行时
 
