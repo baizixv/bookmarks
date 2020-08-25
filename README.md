@@ -212,7 +212,7 @@ gitee 访问地址(github.io 有时候在国内访问会很慢)：https://baizix
 - [**Bootstrap 中文网**](https://www.bootcss.com/) Bootstrap 是 Twitter 推出的一个用于前端开发的开源工具包。是一个 CSS/HTML 框架
 - [**CSS 速查总表**](http://css.cuishifeng.cn/) CSS 是一种 样式表 语言，用来描述 HTML 或 XML（包括如 SVG、MathML、XHTML 之类的 XML 分支语言）文档的呈现
 - [**CSS 参考手册**](http://css.doyoe.com/)
-- [**Vue.js 官方文档**](https://cn.vuejs.org/v2/api/) 是一套构建用户界面的渐进式框架
+- [**Vue.js 官方文档**](https://cn.vuejs.org) 是一套构建用户界面的渐进式框架
 - [**Vuex 官方文档**](https://vuex.vuejs.org/zh/) Vuex 是专门为 Vue.js 设计的状态管理库
 - [**Element**](https://element.eleme.cn/#/zh-CN/component/installation) Element，一套为开发者、设计师和产品经理准备的基于 Vue 2.0 的桌面端组件库
 - [**iView**](http://v1.iviewui.com/docs/guide/install) 一套基于 Vue.js 的高质量 UI 组件库
