@@ -159,6 +159,7 @@ sidebar: auto
 - [**designcap**](https://www.designcap.com) 在线海报设计
 - [**Flat UI 色表**](https://flatuicolors.com/) Flat UI 色表
 - [**0to255**](https://www.0to255.com/) 颜色梯度
+- [**Branition Colors**](https://branition.com/colors) 最适合品牌推广的调色板
 - [**Ikonate**](https://github.com/mikolajdobrucki/ikonate) 提供免费的图标 icons
 - [**remixicon**](https://remixicon.com/) 又一个提供免费图标 icons
 - [**feather**](https://github.com/feathericons/feather) 免费的 icons
